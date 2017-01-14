@@ -23,6 +23,7 @@ The following features are currently supported:
 
  - Install dependencies: `npm install --global yo`
  - Install the generator: `npm install --global generator-openmrs-owa`
+  - or update to the latest version with `npm update --global generator-openmrs-owa`
  - Create directory for your app: `mkdir openmrs-owa-myapp && cd $_`
  - Run `yo openmrs-owa` to scaffold the Open Web App
  - Run `npm run build:prod` to build distributable zip file
